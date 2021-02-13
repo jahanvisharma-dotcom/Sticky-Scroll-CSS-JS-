@@ -1,3 +1,3 @@
 # Sticky-Scroll-CSS-JS-
 
-This is a 
+This is a sticky 
