@@ -1,3 +1,3 @@
 # Sticky-Scroll-CSS-JS-
 
-This is a sticky scroll 
+This is a sticky scroll effect 
